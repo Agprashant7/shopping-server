@@ -19,7 +19,7 @@ const start=async()=>{
         })
     }
     catch(err){
-        console.log(`Error while connecting to server`,err)
+        console.log(`Error while connecting to the server`,err)
     }
 }
 start()
